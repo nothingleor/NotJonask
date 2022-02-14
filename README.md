@@ -1,8 +1,8 @@
 Boa noite
-- 👋 Prazer, Raphael
-- 👀 Cursando o Ensino medio
-- 🌱 Aprendendo Python, Html, CSS e C++
-- 📫 NotJonasK#3474 no discord e NotJonasK em qualquer outro lugar
+-Prazer, Raphael
+-Cursando o Ensino medio
+-Aprendendo Python, Html, CSS e C++
+-NotJonasK#3474 no discord e NotJonasK em qualquer outro lugar
 
 <!---
 NotJonask/NotJonask is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
