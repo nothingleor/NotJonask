@@ -1,6 +1,6 @@
 Boa noite 🌘
 
-- 👋 Prazer, Rapha (sim, apenas Rapha)
+- 👋 Prazer, Leô (ou Leor se você gostar muito de mim)
 - 👀 Cursando o Ensino medio
 - 🌱 Aprendendo Python, Html, CSS e C++
 - 📬 NotJonasK#3474 no discord e NotJonasK em qualquer outro lugar
