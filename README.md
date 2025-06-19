@@ -1,8 +1,8 @@
 Boa noite 🌘
 
 - 👋 Prazer, Leô (ou Leor se você gostar muito de mim)
-- 👀 Cursando o Ensino medio
-- 🌱 Aprendendo Python, Html, CSS e C++
+- 👀 Working, working, working, life hard bro
+- 🌱 Aprendendo Rust
 - 📬 NotJonasK#3474 no discord e NotJonasK em qualquer outro lugar
 
 <!---
